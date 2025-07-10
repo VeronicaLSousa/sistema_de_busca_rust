@@ -13,7 +13,7 @@ Sistema de compilação: Cargo (gerenciador de pacotes e build do Rust)
 git clone https://github.com/VeronicaLSousa/sistema_de_busca_Rust.git
 cd megastore-search
 
-## Instalando as dependênvias
+## Instalando as dependências
 cargo build
 
 ## Execução do sistema de busca
